@@ -18,7 +18,7 @@ function Footer() {
           </a>
         </li>
         <li>
-          <a href="sardaramiri1122@gmail.com" target="_blank">
+          <a href="#" target="_blank">
             <span class="fas fa-envelope" aria-hidden="true"></span>
             <span class="sr-only">Email</span>
           </a>

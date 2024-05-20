@@ -17,12 +17,15 @@ function Project() {
               data sorting and filtering from the backend API using React’s
               component-based architecture. Deployed the application to Netlify
               to demonstrate its features and functionality.
-              <a href="https://ncnews-fun.netlify.app">
+              <a href="https://ncnews-fun.netlify.app" target="_blank">
                 <span> </span>Demo
               </a>
               <span> </span>
               Source
-              <a href="#">
+              <a
+                href="https://github.com/SardarAmiri/nc_news-fronend"
+                target="_blank"
+              >
                 <span> </span>GitHub
               </a>
             </p>
@@ -50,11 +53,17 @@ function Project() {
               Development (TDD) practices. For user authentication, we
               implemented JWT (JSON Web Token) to provide a secure and seamless
               login experience, safeguarding user data and privacy.
-              <a href="https://northcoders.com/project-phase/neon-active">
+              <a
+                href="https://northcoders.com/project-phase/neon-active"
+                target="_blank"
+              >
                 <span> </span> Demo
               </a>
               <span> </span>GitHub <span> </span>
-              <a href="https://github.com/SardarAmiri/Neon-active-back-end">
+              <a
+                href="https://github.com/SardarAmiri/Neon-active-back-end"
+                target="_blank"
+              >
                 this
               </a>
               .
@@ -83,8 +92,14 @@ function Project() {
               robust CRUD operations, ensuring efficient data management.
               Following Test-Driven Development (TDD) practices, the API is
               thoroughly tested for reliability and performance.{" "}
-              <a href="https://ni-nc-news.onrender.com/api">Demo </a> Source
-              <a href="https://github.com/SardarAmiri/NcNews-Backend">
+              <a href="https://ni-nc-news.onrender.com/api" target="_blank">
+                Demo{" "}
+              </a>{" "}
+              Source
+              <a
+                href="https://github.com/SardarAmiri/NcNews-Backend"
+                target="_blank"
+              >
                 {" "}
                 GitHub
               </a>
