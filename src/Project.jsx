@@ -59,12 +59,12 @@ function Project() {
               >
                 <span> </span> Demo
               </a>
-              <span> </span>GitHub <span> </span>
+              <span> </span>Source <span> </span>
               <a
                 href="https://github.com/SardarAmiri/Neon-active-back-end"
                 target="_blank"
               >
-                this
+                Github
               </a>
               .
             </p>

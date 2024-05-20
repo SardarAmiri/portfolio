@@ -9,28 +9,28 @@ function About() {
           <div class="text">
             <h3>Just the highlights</h3>
             <p class="blackbox">
-              Description of the project. This should be fairly concise while
-              also describing the key components that you developed or worked
-              on. It can be as long as you need it to be but should at least be
-              a few sentences long. Be sure to include specific links anywhere
-              in the description. A link looks like
-              <a href="https://frontendmasters.github.io/grid-flexbox-v2/">
-                this
-              </a>
-              , and multiple links look <a href="#">like this</a> and
-              <a href="#">like this</a>.
+              An ambitious individual with a desire for continuous learning and
+              development. I am a recent graduate of the Northcoders Software
+              Development Bootcamp which provides industry-led teaching and
+              covers a wide array of the core concepts of programming.
+              Throughout the course, I have completed both frontend and backend
+              projects in solo, paired and team-based settings. I am also a
+              graduate of The COMSATS University Islamabad (CUI) with a Bachelor
+              of Computer Science.
             </p>
             <h4>My favorite technologies include:</h4>
             <ul>
               <li>HTML</li>
               <li>CSS</li>
-              <li>UX</li>
+              <li>JavaScript</li>
+              <li>React</li>
+              <li>Node.js</li>
+              <li>Express.js</li>
+              <li>PostgreSQL</li>
+              <li>MongoDB</li>
             </ul>
           </div>
-          <img
-            src="img/pexels-christina-morillo-1181267.jpg"
-            alt="Christina Morillo at Pexels."
-          />
+          <img src="images/sardar.JPG" alt="Christina Morillo at Pexels." />
         </article>
       </section>
     </div>

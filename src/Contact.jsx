@@ -11,7 +11,7 @@ function Contact() {
             <span className="sr-only">Email</span>
 
             <span className="social-contact">
-              <a href="sardaramiri1122@gmail.com">sardaramiri1122@gmail.com</a>
+              <a href="#">sardaramiri1122@gmail.com</a>
             </span>
           </li>
           <li className="icon">
