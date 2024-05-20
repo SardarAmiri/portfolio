@@ -4,16 +4,40 @@ function Contact() {
   return (
     <div className="section-plum">
       <section id="contact">
-        <h2>Contact me</h2>
-        <p>
-          I'm always interested in hearing about new teaching opportunities,
-          writing curricula, or instructional design work.
-        </p>
-        <p>
-          <a href="mailto:jen@example.com" className="button">
-            Email me
-          </a>
-        </p>
+        <p>Let's collaborate to create something extraordinary together.</p>
+        <ul className="contact">
+          <li className="icon">
+            <span className="fas fa-envelope" aria-hidden="true"></span>
+            <span className="sr-only">Email</span>
+
+            <span className="social-contact">
+              <a href="sardaramiri1122@gmail.com">sardaramiri1122@gmail.com</a>
+            </span>
+          </li>
+          <li className="icon">
+            <span className="fab fa-linkedin" aria-hidden="true"></span>
+            <span className="sr-only">LinkedIn</span>
+
+            <span className="social-contact">
+              <a
+                href="https://www.linkedin.com/in/sardar-amiri/"
+                target="_blank"
+              >
+                linkedin.com/in/sardar-amiri{" "}
+              </a>
+            </span>
+          </li>
+          <li className="icon">
+            <span className="fab fa-github-square" aria-hidden="true"></span>
+            <span className="sr-only">Github</span>
+
+            <span className="social-contact">
+              <a href="https://github.com/SardarAmiri" target="_blank">
+                github.com/SardarAmiri{" "}
+              </a>
+            </span>
+          </li>
+        </ul>
       </section>
     </div>
   );

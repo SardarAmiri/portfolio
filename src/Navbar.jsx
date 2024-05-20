@@ -7,41 +7,41 @@ function Navbar() {
       <ul>
         <li>
           <h1>
-            <Link href="index.html">
+            <Link to="/">
               <span className="fas fa-code" aria-hidden="true"></span>
               <span>Sardar Amiri</span>
             </Link>
           </h1>
         </li>
         <li>
-          <Link href="#projects">Projects</Link>
+          <a href="#projects">Projects</a>
         </li>
         <li>
           <Link to="/about">About</Link>
         </li>
         <li>
-          <Link href="#contact">Contact</Link>
+          <a href="#contact">Contact</a>
         </li>
         <li>
-          <Link href="https://www.linkedin.com/in/jen4web/" target="_blank">
+          <a href="https://www.linkedin.com/in/sardar-amiri/" target="_blank">
             <span className="fab fa-linkedin" aria-hidden="true"></span>
             <span className="sr-only">LinkedIn</span>
-          </Link>
+          </a>
         </li>
         <li>
-          <Link href="https://www.github.com/jen4web" target="_blank">
+          <a href="https://github.com/SardarAmiri" target="_blank">
             <span className="fab fa-github-square" aria-hidden="true"></span>
             <span className="sr-only">Github</span>
-          </Link>
+          </a>
         </li>
         <li>
-          <Link
-            href="https://www.dropbox.com/s/3z2hm5gu3v2lrfy/JenKramerCV.pdf?dl=0"
+          <a
+            href="https://www.dropbox.com/scl/fi/114b1t72chs3o260zq167/CV-open-relocation.pdf?rlkey=nccv5ded1rrcmw3gc6tdulvgu&st=5q3egnkj&dl=0"
             target="_blank"
             className="button"
           >
             Resume
-          </Link>
+          </a>
         </li>
       </ul>
     </nav>

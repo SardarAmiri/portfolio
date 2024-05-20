@@ -109,13 +109,33 @@ img {
   width: 400px;
   text-align: center;
   margin: 0 auto;
-  padding: 4rem 0;
+  padding: 3rem 0;
 }
 
 #contact p:last-child {
   margin-top: 3rem;
 }
-
+.contact {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.icon {
+  display: flex;
+  gap: 2rem;
+}
+.social-contact {
+  font-size: large;
+  font-family: var(--mono);
+}
+.icon a {
+  color: var(--white);
+  text-decoration: none;
+}
+.icon a:hover {
+  color: var(--magenta);
+}
 /* navigation */
 
 nav {
@@ -158,6 +178,9 @@ nav a {
   color: white;
   text-decoration: none;
   display: block;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 nav a:hover,
@@ -207,6 +230,7 @@ nav [class*="fa-"]:hover {
   background-color: var(--black);
   font-size: 1rem;
   line-height: 1.5;
+  text-align: left;
 }
 
 #projects ul {

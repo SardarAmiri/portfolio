@@ -13,10 +13,7 @@ function Intro() {
         more. If you'd like to know more, feel free to reach out below
       </p>
       <p>
-        <Link href="#contact" target="_blank">
-          Contact Me
-        </Link>
-        .
+        <a href="#contact">Contact Me</a>.
       </p>
     </section>
   );

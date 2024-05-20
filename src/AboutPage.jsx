@@ -7,7 +7,9 @@ function AboutPage() {
   return (
     <>
       <Navbar />
+      <div className="gradient"></div>
       <About />
+      <div className="gradient"></div>
       <Footer />
     </>
   );
