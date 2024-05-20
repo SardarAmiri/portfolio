@@ -1,10 +1,10 @@
 import React from "react";
 
-function About() {
+function Project() {
   return (
     <div class="section-blue">
       <section id="projects">
-        <h2>About Sardar Amiri</h2>
+        <h2>About Jen Kramer</h2>
         <article>
           <div class="text">
             <h3>Just the highlights</h3>
@@ -37,4 +37,4 @@ function About() {
   );
 }
 
-export default About;
+export default Project;
